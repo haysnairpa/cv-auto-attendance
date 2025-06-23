@@ -65,9 +65,9 @@ venv.bak/
 *.swo
 
 # Project specific
-data.pkl
-*.pkl
-*.h5
+# data.pkl
+# *.pkl
+# *.h5
 *.weights
 *.pb
 *.onnx
