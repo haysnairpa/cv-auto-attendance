@@ -124,5 +124,3 @@ While challenges remain regarding lighting conditions and camera angles, the sys
    python main3.py
    ```
 
-## License
-[Specify your license information here]
